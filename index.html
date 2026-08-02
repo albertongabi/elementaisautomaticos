@@ -1,0 +1,137 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
+<title>Meus Elementais · Fortnite</title>
+<link rel="stylesheet" href="./assets/styles.css">
+</head>
+<body>
+
+<div class="wrap">
+  <header>
+    <div class="title-row">
+      <div>
+        <div class="title">Meus Elementais</div>
+        <div class="subtitle">1 toque: desbloqueado · 2 toques: dominado · 3 toques: bloqueado</div>
+      </div>
+      <div class="header-actions">
+<div class="progress-summary" aria-label="Resumo da coleção">
+          <div class="progress-summary-line">Elementais disponíveis <strong id="availableCount">0</strong></div>
+          <div class="progress-summary-line">Elementais desbloqueados <strong id="unlockedCount">0</strong></div>
+          <div class="progress-summary-line">Elementais em breve <strong id="totalCount">0</strong></div>
+        </div>
+      </div>
+    </div>
+    <div class="progress-track"><div class="progress-fill" id="progressFill" style="width:0%"></div></div>
+
+    <div class="searchbar">
+      <input type="text" id="searchInput" placeholder="Buscar tipo..." autocomplete="off">
+    </div>
+
+    <div class="filter-selects">
+      <select id="tipoSelect" aria-label="Filtrar por tipo"></select>
+      <select id="variacaoSelect" aria-label="Filtrar por variação"></select>
+    </div>
+    <div class="chip-row" id="statusChips"></div>
+  </header>
+
+  <div id="content"></div>
+
+  <div class="footer-note">
+    Ferramenta não-oficial feita por fã, sem vínculo com a Epic Games.<br>
+    Ícones dos elementais via fortniteking.com — sem vínculo com o site.<br>
+    Nomes, raridades e variações podem mudar com atualizações do jogo.<br>
+    <button onclick="exportData()">Exportar backup</button> ·
+    <button onclick="document.getElementById('importFile').click()">Importar backup</button> ·
+    <button onclick="resetAll()">Zerar tudo</button>
+    <input type="file" id="importFile" accept="application/json" style="display:none">
+  </div>
+</div>
+<input type="file" id="variantImageInput" accept="image/*" style="display:none">
+
+<div class="overlay" id="overlay">
+  <div class="sheet">
+    <h2 id="modalTitle">Novo tipo de elemental</h2>
+
+    <div class="field">
+      <label>Nome</label>
+      <input type="text" id="fNome" placeholder="Ex: Água">
+    </div>
+
+    <div class="field">
+      <label>Foto (opcional)</label>
+      <div class="img-upload">
+        <div class="img-preview" id="imgPreview">🧩</div>
+        <label class="file-label" for="fImagem">Escolher foto</label>
+        <input type="file" id="fImagem" accept="image/*" style="display:none">
+        <button type="button" class="file-label" onclick="clearImage()">Remover</button>
+      </div>
+      <div class="hint">Se você não colocar foto, os cards usam o ícone oficial do fortniteking.com (quando disponível) ou o emoji abaixo.</div>
+    </div>
+
+    <div class="field">
+      <label>Emoji (se não tiver foto nem ícone oficial)</label>
+      <div class="emoji-picker" id="emojiPicker"></div>
+    </div>
+
+    <div class="field">
+      <label>Raridade</label>
+      <select id="fRaridade"></select>
+    </div>
+
+    <div class="field">
+      <label>Variações que este tipo pode ter</label>
+      <div class="modal-variants" id="modalVariants"></div>
+      <div class="hint">Desmarcadas somem dos cards na tela inicial pra esse tipo (não apaga progresso já marcado).</div>
+    </div>
+
+    <div class="btn-row">
+      <button class="btn btn-danger" id="btnDelete" style="display:none;" onclick="deleteCurrent()">Excluir</button>
+      <button class="btn btn-ghost" onclick="closeModal()">Cancelar</button>
+      <button class="btn btn-primary" onclick="saveCurrent()">Salvar</button>
+    </div>
+  </div>
+</div>
+
+<div class="overlay" id="listOverlay">
+  <div class="sheet">
+    <h2>Gerenciar listas</h2>
+    <div class="list-hint">Adicione ou remova tipos, variações e raridades. Toque num tipo pra editar foto, emoji, raridade e variações dele. Remover uma opção não apaga progresso já marcado — só some das opções pra novos cadastros.</div>
+
+    <div class="list-manage-section">
+      <h3>Tipo</h3>
+      <div id="tipoListRows"></div>
+      <div class="list-add-row">
+        <input type="text" id="newTipoInput" placeholder="Novo tipo (ex: Gelo)...">
+        <button onclick="addListEntry('tipos')">+</button>
+      </div>
+    </div>
+
+    <div class="list-manage-section">
+      <h3>Variação</h3>
+      <div id="variantListRows"></div>
+      <div class="list-add-row">
+        <input type="text" id="newVariantInput" placeholder="Nova variação...">
+        <button onclick="addListEntry('variantes')">+</button>
+      </div>
+    </div>
+
+    <div class="list-manage-section">
+      <h3>Raridade</h3>
+      <div id="raridadeListRows"></div>
+      <div class="list-add-row">
+        <input type="text" id="newRaridadeInput" placeholder="Nova raridade...">
+        <button onclick="addListEntry('raridades')">+</button>
+      </div>
+    </div>
+
+    <div class="btn-row">
+      <button class="btn btn-primary" onclick="closeListManager()">Pronto</button>
+    </div>
+  </div>
+</div>
+
+<script type="module" src="./assets/app.js"></script>
+</body>
+</html>
