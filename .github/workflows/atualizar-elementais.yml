@@ -1,1 +1,44 @@
+name: Atualizar catálogo de elementais
 
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '17 12 * * *'
+
+permissions:
+  contents: write
+
+jobs:
+  atualizar:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Baixar repositório
+        uses: actions/checkout@v4
+
+      - name: Configurar Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+          cache: npm
+
+      - name: Instalar dependências
+        run: npm install
+
+      - name: Atualizar catálogo pelo FortniteKing
+        run: npm run atualizar
+
+      - name: Validar catálogo
+        run: npm run validar
+
+      - name: Salvar alterações
+        run: |
+          if git diff --quiet -- elementais.json; then
+            echo "Nenhuma alteração no catálogo."
+          else
+            git config user.name "github-actions[bot]"
+            git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+            git add elementais.json
+            git commit -m "Atualiza disponibilidade dos elementais"
+            git push
+          fi
