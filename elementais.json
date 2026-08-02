@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "atualizadoEm": null,
-  "fonte": "https://www.fortniteking.com/",
+  "atualizadoEm": "2026-08-02T23:17:47.167Z",
+  "fonte": "https://www.fortniteking.com/sprite",
   "tipos": [
     {
       "nome": "Água",
@@ -21,42 +21,42 @@
       "variantes": {
         "Normal": {
           "status": "disponivel",
-          "drop": null,
+          "drop": "0%",
           "fonte": "https://www.fortniteking.com/sprite/water"
         },
         "Dourado": {
           "status": "disponivel",
-          "drop": null,
+          "drop": "0%",
           "fonte": "https://www.fortniteking.com/sprite/water"
         },
         "Gelatinoso": {
           "status": "disponivel",
-          "drop": null,
+          "drop": "0%",
           "fonte": "https://www.fortniteking.com/sprite/water"
         },
         "Galáctico": {
           "status": "disponivel",
-          "drop": null,
+          "drop": "0%",
           "fonte": "https://www.fortniteking.com/sprite/water"
         },
         "Metalizado": {
           "status": "disponivel",
-          "drop": null,
+          "drop": "0%",
           "fonte": "https://www.fortniteking.com/sprite/water"
         },
         "Cúbico": {
-          "status": "em_breve",
-          "drop": null,
+          "status": "disponivel",
+          "drop": "0%",
           "fonte": "https://www.fortniteking.com/sprite/water"
         },
         "Quack": {
-          "status": "em_breve",
-          "drop": null,
+          "status": "disponivel",
+          "drop": "0%",
           "fonte": "https://www.fortniteking.com/sprite/water"
         },
         "Gema": {
-          "status": "em_breve",
-          "drop": null,
+          "status": "disponivel",
+          "drop": "0%",
           "fonte": "https://www.fortniteking.com/sprite/water"
         }
       }
@@ -79,42 +79,42 @@
       "variantes": {
         "Normal": {
           "status": "disponivel",
-          "drop": null,
+          "drop": "0%",
           "fonte": "https://www.fortniteking.com/sprite/earth"
         },
         "Dourado": {
           "status": "disponivel",
-          "drop": null,
+          "drop": "0%",
           "fonte": "https://www.fortniteking.com/sprite/earth"
         },
         "Gelatinoso": {
           "status": "disponivel",
-          "drop": null,
+          "drop": "0%",
           "fonte": "https://www.fortniteking.com/sprite/earth"
         },
         "Galáctico": {
           "status": "disponivel",
-          "drop": null,
+          "drop": "0%",
           "fonte": "https://www.fortniteking.com/sprite/earth"
         },
         "Metalizado": {
-          "status": "em_breve",
-          "drop": null,
+          "status": "disponivel",
+          "drop": "0%",
           "fonte": "https://www.fortniteking.com/sprite/earth"
         },
         "Cúbico": {
           "status": "disponivel",
-          "drop": null,
+          "drop": "0%",
           "fonte": "https://www.fortniteking.com/sprite/earth"
         },
         "Quack": {
           "status": "disponivel",
-          "drop": null,
+          "drop": "0%",
           "fonte": "https://www.fortniteking.com/sprite/earth"
         },
         "Gema": {
-          "status": "em_breve",
-          "drop": null,
+          "status": "disponivel",
+          "drop": "0%",
           "fonte": "https://www.fortniteking.com/sprite/earth"
         }
       }
@@ -137,42 +137,42 @@
       "variantes": {
         "Normal": {
           "status": "disponivel",
-          "drop": null,
+          "drop": "0%",
           "fonte": "https://www.fortniteking.com/sprite/fire"
         },
         "Dourado": {
           "status": "disponivel",
-          "drop": null,
+          "drop": "0%",
           "fonte": "https://www.fortniteking.com/sprite/fire"
         },
         "Gelatinoso": {
           "status": "disponivel",
-          "drop": null,
+          "drop": "0%",
           "fonte": "https://www.fortniteking.com/sprite/fire"
         },
         "Galáctico": {
           "status": "disponivel",
-          "drop": null,
+          "drop": "0%",
           "fonte": "https://www.fortniteking.com/sprite/fire"
         },
         "Metalizado": {
           "status": "disponivel",
-          "drop": null,
+          "drop": "0%",
           "fonte": "https://www.fortniteking.com/sprite/fire"
         },
         "Cúbico": {
           "status": "disponivel",
-          "drop": null,
+          "drop": "0%",
           "fonte": "https://www.fortniteking.com/sprite/fire"
         },
         "Quack": {
           "status": "disponivel",
-          "drop": null,
+          "drop": "0%",
           "fonte": "https://www.fortniteking.com/sprite/fire"
         },
         "Gema": {
-          "status": "em_breve",
-          "drop": null,
+          "status": "disponivel",
+          "drop": "0%",
           "fonte": "https://www.fortniteking.com/sprite/fire"
         }
       }
@@ -195,42 +195,42 @@
       "variantes": {
         "Normal": {
           "status": "disponivel",
-          "drop": null,
+          "drop": "0%",
           "fonte": "https://www.fortniteking.com/sprite/air"
         },
         "Dourado": {
           "status": "disponivel",
-          "drop": null,
+          "drop": "0%",
           "fonte": "https://www.fortniteking.com/sprite/air"
         },
         "Gelatinoso": {
           "status": "disponivel",
-          "drop": null,
+          "drop": "0%",
           "fonte": "https://www.fortniteking.com/sprite/air"
         },
         "Galáctico": {
           "status": "disponivel",
-          "drop": null,
+          "drop": "0%",
           "fonte": "https://www.fortniteking.com/sprite/air"
         },
         "Metalizado": {
           "status": "disponivel",
-          "drop": null,
+          "drop": "0%",
           "fonte": "https://www.fortniteking.com/sprite/air"
         },
         "Cúbico": {
-          "status": "em_breve",
-          "drop": null,
+          "status": "disponivel",
+          "drop": "0%",
           "fonte": "https://www.fortniteking.com/sprite/air"
         },
         "Quack": {
-          "status": "em_breve",
-          "drop": null,
+          "status": "disponivel",
+          "drop": "0%",
           "fonte": "https://www.fortniteking.com/sprite/air"
         },
         "Gema": {
-          "status": "em_breve",
-          "drop": null,
+          "status": "disponivel",
+          "drop": "0%",
           "fonte": "https://www.fortniteking.com/sprite/air"
         }
       }
@@ -253,42 +253,42 @@
       "variantes": {
         "Normal": {
           "status": "disponivel",
-          "drop": null,
+          "drop": "0%",
           "fonte": "https://www.fortniteking.com/sprite/fishy"
         },
         "Dourado": {
           "status": "disponivel",
-          "drop": null,
+          "drop": "0%",
           "fonte": "https://www.fortniteking.com/sprite/fishy"
         },
         "Gelatinoso": {
           "status": "disponivel",
-          "drop": null,
+          "drop": "0%",
           "fonte": "https://www.fortniteking.com/sprite/fishy"
         },
         "Galáctico": {
           "status": "disponivel",
-          "drop": null,
+          "drop": "0%",
           "fonte": "https://www.fortniteking.com/sprite/fishy"
         },
         "Metalizado": {
-          "status": "em_breve",
-          "drop": null,
+          "status": "disponivel",
+          "drop": "0%",
           "fonte": "https://www.fortniteking.com/sprite/fishy"
         },
         "Cúbico": {
           "status": "disponivel",
-          "drop": null,
+          "drop": "0%",
           "fonte": "https://www.fortniteking.com/sprite/fishy"
         },
         "Quack": {
-          "status": "em_breve",
-          "drop": null,
+          "status": "disponivel",
+          "drop": "0%",
           "fonte": "https://www.fortniteking.com/sprite/fishy"
         },
         "Gema": {
-          "status": "em_breve",
-          "drop": null,
+          "status": "disponivel",
+          "drop": "0%",
           "fonte": "https://www.fortniteking.com/sprite/fishy"
         }
       }
@@ -311,42 +311,42 @@
       "variantes": {
         "Normal": {
           "status": "disponivel",
-          "drop": null,
+          "drop": "9%",
           "fonte": "https://www.fortniteking.com/sprite/duck"
         },
         "Dourado": {
           "status": "disponivel",
-          "drop": null,
+          "drop": "9%",
           "fonte": "https://www.fortniteking.com/sprite/duck"
         },
         "Gelatinoso": {
           "status": "disponivel",
-          "drop": null,
+          "drop": "9%",
           "fonte": "https://www.fortniteking.com/sprite/duck"
         },
         "Galáctico": {
           "status": "disponivel",
-          "drop": null,
+          "drop": "9%",
           "fonte": "https://www.fortniteking.com/sprite/duck"
         },
         "Metalizado": {
-          "status": "em_breve",
-          "drop": null,
+          "status": "disponivel",
+          "drop": "9%",
           "fonte": "https://www.fortniteking.com/sprite/duck"
         },
         "Cúbico": {
-          "status": "em_breve",
-          "drop": null,
+          "status": "disponivel",
+          "drop": "9%",
           "fonte": "https://www.fortniteking.com/sprite/duck"
         },
         "Quack": {
-          "status": "em_breve",
-          "drop": null,
+          "status": "disponivel",
+          "drop": "9%",
           "fonte": "https://www.fortniteking.com/sprite/duck"
         },
         "Gema": {
-          "status": "em_breve",
-          "drop": null,
+          "status": "disponivel",
+          "drop": "9%",
           "fonte": "https://www.fortniteking.com/sprite/duck"
         }
       }
@@ -369,42 +369,42 @@
       "variantes": {
         "Normal": {
           "status": "disponivel",
-          "drop": null,
+          "drop": "9%",
           "fonte": "https://www.fortniteking.com/sprite/ghost"
         },
         "Dourado": {
           "status": "disponivel",
-          "drop": null,
+          "drop": "9%",
           "fonte": "https://www.fortniteking.com/sprite/ghost"
         },
         "Gelatinoso": {
           "status": "disponivel",
-          "drop": null,
+          "drop": "9%",
           "fonte": "https://www.fortniteking.com/sprite/ghost"
         },
         "Galáctico": {
           "status": "disponivel",
-          "drop": null,
+          "drop": "9%",
           "fonte": "https://www.fortniteking.com/sprite/ghost"
         },
         "Metalizado": {
           "status": "disponivel",
-          "drop": null,
+          "drop": "9%",
           "fonte": "https://www.fortniteking.com/sprite/ghost"
         },
         "Cúbico": {
-          "status": "em_breve",
-          "drop": null,
+          "status": "disponivel",
+          "drop": "9%",
           "fonte": "https://www.fortniteking.com/sprite/ghost"
         },
         "Quack": {
-          "status": "em_breve",
-          "drop": null,
+          "status": "disponivel",
+          "drop": "9%",
           "fonte": "https://www.fortniteking.com/sprite/ghost"
         },
         "Gema": {
-          "status": "em_breve",
-          "drop": null,
+          "status": "disponivel",
+          "drop": "9%",
           "fonte": "https://www.fortniteking.com/sprite/ghost"
         }
       }
@@ -427,42 +427,42 @@
       "variantes": {
         "Normal": {
           "status": "disponivel",
-          "drop": null,
+          "drop": "9%",
           "fonte": "https://www.fortniteking.com/sprite/demon"
         },
         "Dourado": {
           "status": "disponivel",
-          "drop": null,
+          "drop": "9%",
           "fonte": "https://www.fortniteking.com/sprite/demon"
         },
         "Gelatinoso": {
           "status": "disponivel",
-          "drop": null,
+          "drop": "9%",
           "fonte": "https://www.fortniteking.com/sprite/demon"
         },
         "Galáctico": {
           "status": "disponivel",
-          "drop": null,
+          "drop": "9%",
           "fonte": "https://www.fortniteking.com/sprite/demon"
         },
         "Metalizado": {
-          "status": "em_breve",
-          "drop": null,
+          "status": "disponivel",
+          "drop": "9%",
           "fonte": "https://www.fortniteking.com/sprite/demon"
         },
         "Cúbico": {
-          "status": "em_breve",
-          "drop": null,
+          "status": "disponivel",
+          "drop": "9%",
           "fonte": "https://www.fortniteking.com/sprite/demon"
         },
         "Quack": {
-          "status": "em_breve",
-          "drop": null,
+          "status": "disponivel",
+          "drop": "9%",
           "fonte": "https://www.fortniteking.com/sprite/demon"
         },
         "Gema": {
-          "status": "em_breve",
-          "drop": null,
+          "status": "disponivel",
+          "drop": "9%",
           "fonte": "https://www.fortniteking.com/sprite/demon"
         }
       }
@@ -485,42 +485,42 @@
       "variantes": {
         "Normal": {
           "status": "disponivel",
-          "drop": null,
+          "drop": "9%",
           "fonte": "https://www.fortniteking.com/sprite/king"
         },
         "Dourado": {
           "status": "disponivel",
-          "drop": null,
+          "drop": "9%",
           "fonte": "https://www.fortniteking.com/sprite/king"
         },
         "Gelatinoso": {
           "status": "disponivel",
-          "drop": null,
+          "drop": "9%",
           "fonte": "https://www.fortniteking.com/sprite/king"
         },
         "Galáctico": {
           "status": "disponivel",
-          "drop": null,
+          "drop": "9%",
           "fonte": "https://www.fortniteking.com/sprite/king"
         },
         "Metalizado": {
           "status": "disponivel",
-          "drop": null,
+          "drop": "9%",
           "fonte": "https://www.fortniteking.com/sprite/king"
         },
         "Cúbico": {
-          "status": "em_breve",
-          "drop": null,
+          "status": "disponivel",
+          "drop": "9%",
           "fonte": "https://www.fortniteking.com/sprite/king"
         },
         "Quack": {
-          "status": "em_breve",
-          "drop": null,
+          "status": "disponivel",
+          "drop": "9%",
           "fonte": "https://www.fortniteking.com/sprite/king"
         },
         "Gema": {
-          "status": "em_breve",
-          "drop": null,
+          "status": "disponivel",
+          "drop": "9%",
           "fonte": "https://www.fortniteking.com/sprite/king"
         }
       }
@@ -543,42 +543,42 @@
       "variantes": {
         "Normal": {
           "status": "disponivel",
-          "drop": null,
+          "drop": "6,98%",
           "fonte": "https://www.fortniteking.com/sprite/drifter"
         },
         "Dourado": {
           "status": "disponivel",
-          "drop": null,
+          "drop": "6,98%",
           "fonte": "https://www.fortniteking.com/sprite/drifter"
         },
         "Gelatinoso": {
           "status": "disponivel",
-          "drop": null,
+          "drop": "6,98%",
           "fonte": "https://www.fortniteking.com/sprite/drifter"
         },
         "Galáctico": {
           "status": "disponivel",
-          "drop": null,
+          "drop": "6,98%",
           "fonte": "https://www.fortniteking.com/sprite/drifter"
         },
         "Metalizado": {
-          "status": "em_breve",
-          "drop": null,
+          "status": "disponivel",
+          "drop": "6,98%",
           "fonte": "https://www.fortniteking.com/sprite/drifter"
         },
         "Cúbico": {
-          "status": "em_breve",
-          "drop": null,
+          "status": "disponivel",
+          "drop": "6,98%",
           "fonte": "https://www.fortniteking.com/sprite/drifter"
         },
         "Quack": {
-          "status": "em_breve",
-          "drop": null,
+          "status": "disponivel",
+          "drop": "6,98%",
           "fonte": "https://www.fortniteking.com/sprite/drifter"
         },
         "Gema": {
-          "status": "em_breve",
-          "drop": null,
+          "status": "disponivel",
+          "drop": "6,98%",
           "fonte": "https://www.fortniteking.com/sprite/drifter"
         }
       }
@@ -601,42 +601,42 @@
       "variantes": {
         "Normal": {
           "status": "disponivel",
-          "drop": null,
+          "drop": "6,98%",
           "fonte": "https://www.fortniteking.com/sprite/soccer"
         },
         "Dourado": {
           "status": "disponivel",
-          "drop": null,
+          "drop": "6,98%",
           "fonte": "https://www.fortniteking.com/sprite/soccer"
         },
         "Gelatinoso": {
           "status": "disponivel",
-          "drop": null,
+          "drop": "6,98%",
           "fonte": "https://www.fortniteking.com/sprite/soccer"
         },
         "Galáctico": {
           "status": "disponivel",
-          "drop": null,
+          "drop": "6,98%",
           "fonte": "https://www.fortniteking.com/sprite/soccer"
         },
         "Metalizado": {
           "status": "disponivel",
-          "drop": null,
+          "drop": "6,98%",
           "fonte": "https://www.fortniteking.com/sprite/soccer"
         },
         "Cúbico": {
-          "status": "em_breve",
-          "drop": null,
+          "status": "disponivel",
+          "drop": "6,98%",
           "fonte": "https://www.fortniteking.com/sprite/soccer"
         },
         "Quack": {
-          "status": "em_breve",
-          "drop": null,
+          "status": "disponivel",
+          "drop": "6,98%",
           "fonte": "https://www.fortniteking.com/sprite/soccer"
         },
         "Gema": {
-          "status": "em_breve",
-          "drop": null,
+          "status": "disponivel",
+          "drop": "6,98%",
           "fonte": "https://www.fortniteking.com/sprite/soccer"
         }
       }
@@ -659,42 +659,42 @@
       "variantes": {
         "Normal": {
           "status": "disponivel",
-          "drop": null,
+          "drop": "6,98%",
           "fonte": "https://www.fortniteking.com/sprite/dream"
         },
         "Dourado": {
           "status": "disponivel",
-          "drop": null,
+          "drop": "6,98%",
           "fonte": "https://www.fortniteking.com/sprite/dream"
         },
         "Gelatinoso": {
           "status": "disponivel",
-          "drop": null,
+          "drop": "6,98%",
           "fonte": "https://www.fortniteking.com/sprite/dream"
         },
         "Galáctico": {
           "status": "disponivel",
-          "drop": null,
+          "drop": "6,98%",
           "fonte": "https://www.fortniteking.com/sprite/dream"
         },
         "Metalizado": {
-          "status": "em_breve",
-          "drop": null,
+          "status": "disponivel",
+          "drop": "6,98%",
           "fonte": "https://www.fortniteking.com/sprite/dream"
         },
         "Cúbico": {
           "status": "disponivel",
-          "drop": null,
+          "drop": "6,98%",
           "fonte": "https://www.fortniteking.com/sprite/dream"
         },
         "Quack": {
-          "status": "em_breve",
-          "drop": null,
+          "status": "disponivel",
+          "drop": "6,98%",
           "fonte": "https://www.fortniteking.com/sprite/dream"
         },
         "Gema": {
-          "status": "em_breve",
-          "drop": null,
+          "status": "disponivel",
+          "drop": "6,98%",
           "fonte": "https://www.fortniteking.com/sprite/dream"
         }
       }
@@ -717,42 +717,42 @@
       "variantes": {
         "Normal": {
           "status": "disponivel",
-          "drop": null,
+          "drop": "6,98%",
           "fonte": "https://www.fortniteking.com/sprite/punk"
         },
         "Dourado": {
           "status": "disponivel",
-          "drop": null,
+          "drop": "6,98%",
           "fonte": "https://www.fortniteking.com/sprite/punk"
         },
         "Gelatinoso": {
           "status": "disponivel",
-          "drop": null,
+          "drop": "6,98%",
           "fonte": "https://www.fortniteking.com/sprite/punk"
         },
         "Galáctico": {
           "status": "disponivel",
-          "drop": null,
+          "drop": "6,98%",
           "fonte": "https://www.fortniteking.com/sprite/punk"
         },
         "Metalizado": {
-          "status": "em_breve",
-          "drop": null,
+          "status": "disponivel",
+          "drop": "6,98%",
           "fonte": "https://www.fortniteking.com/sprite/punk"
         },
         "Cúbico": {
           "status": "disponivel",
-          "drop": null,
+          "drop": "6,98%",
           "fonte": "https://www.fortniteking.com/sprite/punk"
         },
         "Quack": {
-          "status": "em_breve",
-          "drop": null,
+          "status": "disponivel",
+          "drop": "6,98%",
           "fonte": "https://www.fortniteking.com/sprite/punk"
         },
         "Gema": {
-          "status": "em_breve",
-          "drop": null,
+          "status": "disponivel",
+          "drop": "6,98%",
           "fonte": "https://www.fortniteking.com/sprite/punk"
         }
       }
@@ -775,42 +775,42 @@
       "variantes": {
         "Normal": {
           "status": "disponivel",
-          "drop": null,
+          "drop": "6,98%",
           "fonte": "https://www.fortniteking.com/sprite/boss"
         },
         "Dourado": {
           "status": "disponivel",
-          "drop": null,
+          "drop": "6,98%",
           "fonte": "https://www.fortniteking.com/sprite/boss"
         },
         "Gelatinoso": {
           "status": "disponivel",
-          "drop": null,
+          "drop": "6,98%",
           "fonte": "https://www.fortniteking.com/sprite/boss"
         },
         "Galáctico": {
           "status": "disponivel",
-          "drop": null,
+          "drop": "6,98%",
           "fonte": "https://www.fortniteking.com/sprite/boss"
         },
         "Metalizado": {
-          "status": "em_breve",
-          "drop": null,
+          "status": "disponivel",
+          "drop": "6,98%",
           "fonte": "https://www.fortniteking.com/sprite/boss"
         },
         "Cúbico": {
           "status": "disponivel",
-          "drop": null,
+          "drop": "6,98%",
           "fonte": "https://www.fortniteking.com/sprite/boss"
         },
         "Quack": {
-          "status": "em_breve",
-          "drop": null,
+          "status": "disponivel",
+          "drop": "6,98%",
           "fonte": "https://www.fortniteking.com/sprite/boss"
         },
         "Gema": {
-          "status": "em_breve",
-          "drop": null,
+          "status": "disponivel",
+          "drop": "6,98%",
           "fonte": "https://www.fortniteking.com/sprite/boss"
         }
       }
@@ -833,42 +833,42 @@
       "variantes": {
         "Normal": {
           "status": "disponivel",
-          "drop": null,
+          "drop": "6,98%",
           "fonte": "https://www.fortniteking.com/sprite/seven"
         },
         "Dourado": {
           "status": "disponivel",
-          "drop": null,
+          "drop": "6,98%",
           "fonte": "https://www.fortniteking.com/sprite/seven"
         },
         "Gelatinoso": {
           "status": "disponivel",
-          "drop": null,
+          "drop": "6,98%",
           "fonte": "https://www.fortniteking.com/sprite/seven"
         },
         "Galáctico": {
           "status": "disponivel",
-          "drop": null,
+          "drop": "6,98%",
           "fonte": "https://www.fortniteking.com/sprite/seven"
         },
         "Metalizado": {
           "status": "disponivel",
-          "drop": null,
+          "drop": "6,98%",
           "fonte": "https://www.fortniteking.com/sprite/seven"
         },
         "Cúbico": {
-          "status": "em_breve",
-          "drop": null,
+          "status": "disponivel",
+          "drop": "6,98%",
           "fonte": "https://www.fortniteking.com/sprite/seven"
         },
         "Quack": {
-          "status": "em_breve",
-          "drop": null,
+          "status": "disponivel",
+          "drop": "6,98%",
           "fonte": "https://www.fortniteking.com/sprite/seven"
         },
         "Gema": {
-          "status": "em_breve",
-          "drop": null,
+          "status": "disponivel",
+          "drop": "6,98%",
           "fonte": "https://www.fortniteking.com/sprite/seven"
         }
       }
@@ -891,42 +891,42 @@
       "variantes": {
         "Normal": {
           "status": "disponivel",
-          "drop": null,
+          "drop": "0,09%",
           "fonte": "https://www.fortniteking.com/sprite/grimreaper"
         },
         "Dourado": {
           "status": "disponivel",
-          "drop": null,
+          "drop": "0,09%",
           "fonte": "https://www.fortniteking.com/sprite/grimreaper"
         },
         "Gelatinoso": {
           "status": "disponivel",
-          "drop": null,
+          "drop": "0,09%",
           "fonte": "https://www.fortniteking.com/sprite/grimreaper"
         },
         "Galáctico": {
           "status": "disponivel",
-          "drop": null,
+          "drop": "0,09%",
           "fonte": "https://www.fortniteking.com/sprite/grimreaper"
         },
         "Metalizado": {
           "status": "disponivel",
-          "drop": null,
+          "drop": "0,09%",
           "fonte": "https://www.fortniteking.com/sprite/grimreaper"
         },
         "Cúbico": {
           "status": "disponivel",
-          "drop": null,
+          "drop": "0,09%",
           "fonte": "https://www.fortniteking.com/sprite/grimreaper"
         },
         "Quack": {
-          "status": "em_breve",
-          "drop": null,
+          "status": "disponivel",
+          "drop": "0,09%",
           "fonte": "https://www.fortniteking.com/sprite/grimreaper"
         },
         "Gema": {
-          "status": "em_breve",
-          "drop": null,
+          "status": "disponivel",
+          "drop": "0,09%",
           "fonte": "https://www.fortniteking.com/sprite/grimreaper"
         }
       }
@@ -949,42 +949,42 @@
       "variantes": {
         "Normal": {
           "status": "disponivel",
-          "drop": null,
+          "drop": "0,0009%",
           "fonte": "https://www.fortniteking.com/sprite/zeropoint"
         },
         "Dourado": {
           "status": "disponivel",
-          "drop": null,
+          "drop": "0,0009%",
           "fonte": "https://www.fortniteking.com/sprite/zeropoint"
         },
         "Gelatinoso": {
           "status": "disponivel",
-          "drop": null,
+          "drop": "0,0009%",
           "fonte": "https://www.fortniteking.com/sprite/zeropoint"
         },
         "Galáctico": {
           "status": "disponivel",
-          "drop": null,
+          "drop": "0,0009%",
           "fonte": "https://www.fortniteking.com/sprite/zeropoint"
         },
         "Metalizado": {
           "status": "disponivel",
-          "drop": null,
+          "drop": "0,0009%",
           "fonte": "https://www.fortniteking.com/sprite/zeropoint"
         },
         "Cúbico": {
           "status": "disponivel",
-          "drop": null,
+          "drop": "0,0009%",
           "fonte": "https://www.fortniteking.com/sprite/zeropoint"
         },
         "Quack": {
           "status": "disponivel",
-          "drop": null,
+          "drop": "0,0009%",
           "fonte": "https://www.fortniteking.com/sprite/zeropoint"
         },
         "Gema": {
-          "status": "em_breve",
-          "drop": null,
+          "status": "disponivel",
+          "drop": "0,0009%",
           "fonte": "https://www.fortniteking.com/sprite/zeropoint"
         }
       }
@@ -1007,42 +1007,42 @@
       "variantes": {
         "Normal": {
           "status": "disponivel",
-          "drop": null,
+          "drop": "2,23%",
           "fonte": "https://www.fortniteking.com/sprite/batman"
         },
         "Dourado": {
           "status": "disponivel",
-          "drop": null,
+          "drop": "2,23%",
           "fonte": "https://www.fortniteking.com/sprite/batman"
         },
         "Gelatinoso": {
           "status": "disponivel",
-          "drop": null,
+          "drop": "2,23%",
           "fonte": "https://www.fortniteking.com/sprite/batman"
         },
         "Galáctico": {
           "status": "disponivel",
-          "drop": null,
+          "drop": "2,23%",
           "fonte": "https://www.fortniteking.com/sprite/batman"
         },
         "Metalizado": {
           "status": "disponivel",
-          "drop": null,
+          "drop": "2,23%",
           "fonte": "https://www.fortniteking.com/sprite/batman"
         },
         "Cúbico": {
           "status": "disponivel",
-          "drop": null,
+          "drop": "2,23%",
           "fonte": "https://www.fortniteking.com/sprite/batman"
         },
         "Quack": {
-          "status": "em_breve",
-          "drop": null,
+          "status": "disponivel",
+          "drop": "2,23%",
           "fonte": "https://www.fortniteking.com/sprite/batman"
         },
         "Gema": {
-          "status": "em_breve",
-          "drop": null,
+          "status": "disponivel",
+          "drop": "2,23%",
           "fonte": "https://www.fortniteking.com/sprite/batman"
         }
       }
@@ -1058,7 +1058,7 @@
       "variantes": {
         "Normal": {
           "status": "disponivel",
-          "drop": null,
+          "drop": "0%",
           "fonte": "https://www.fortniteking.com/sprite/johnwick"
         }
       }
@@ -1074,7 +1074,7 @@
       "variantes": {
         "Normal": {
           "status": "disponivel",
-          "drop": null,
+          "drop": "0%",
           "fonte": "https://www.fortniteking.com/sprite/theburntpeanut"
         }
       }
@@ -1090,7 +1090,7 @@
       "variantes": {
         "Normal": {
           "status": "disponivel",
-          "drop": null,
+          "drop": "0%",
           "fonte": "https://www.fortniteking.com/sprite/pollo"
         }
       }
@@ -1106,7 +1106,7 @@
       "variantes": {
         "Normal": {
           "status": "disponivel",
-          "drop": null,
+          "drop": "0%",
           "fonte": "https://www.fortniteking.com/sprite/vinijr"
         }
       }
@@ -1121,8 +1121,8 @@
       ],
       "variantes": {
         "Normal": {
-          "status": "disponivel",
-          "drop": null,
+          "status": "em_breve",
+          "drop": "Em breve",
           "fonte": "https://www.fortniteking.com/sprite/ironmouse"
         }
       }
@@ -1144,43 +1144,43 @@
       ],
       "variantes": {
         "Normal": {
-          "status": "disponivel",
-          "drop": null,
+          "status": "em_breve",
+          "drop": "Em breve",
           "fonte": "https://www.fortniteking.com/sprite/llama"
         },
         "Dourado": {
-          "status": "disponivel",
-          "drop": null,
+          "status": "em_breve",
+          "drop": "Em breve",
           "fonte": "https://www.fortniteking.com/sprite/llama"
         },
         "Gelatinoso": {
-          "status": "disponivel",
-          "drop": null,
+          "status": "em_breve",
+          "drop": "Em breve",
           "fonte": "https://www.fortniteking.com/sprite/llama"
         },
         "Galáctico": {
-          "status": "disponivel",
-          "drop": null,
+          "status": "em_breve",
+          "drop": "Em breve",
           "fonte": "https://www.fortniteking.com/sprite/llama"
         },
         "Metalizado": {
           "status": "em_breve",
-          "drop": null,
+          "drop": "Em breve",
           "fonte": "https://www.fortniteking.com/sprite/llama"
         },
         "Cúbico": {
           "status": "em_breve",
-          "drop": null,
+          "drop": "Em breve",
           "fonte": "https://www.fortniteking.com/sprite/llama"
         },
         "Quack": {
           "status": "em_breve",
-          "drop": null,
+          "drop": "Em breve",
           "fonte": "https://www.fortniteking.com/sprite/llama"
         },
         "Gema": {
-          "status": "disponivel",
-          "drop": null,
+          "status": "em_breve",
+          "drop": "Em breve",
           "fonte": "https://www.fortniteking.com/sprite/llama"
         }
       }
@@ -1202,46 +1202,51 @@
       ],
       "variantes": {
         "Normal": {
-          "status": "disponivel",
-          "drop": null,
+          "status": "em_breve",
+          "drop": "Em breve",
           "fonte": "https://www.fortniteking.com/sprite/peely"
         },
         "Dourado": {
-          "status": "disponivel",
-          "drop": null,
+          "status": "em_breve",
+          "drop": "Em breve",
           "fonte": "https://www.fortniteking.com/sprite/peely"
         },
         "Gelatinoso": {
-          "status": "disponivel",
-          "drop": null,
+          "status": "em_breve",
+          "drop": "Em breve",
           "fonte": "https://www.fortniteking.com/sprite/peely"
         },
         "Galáctico": {
-          "status": "disponivel",
-          "drop": null,
+          "status": "em_breve",
+          "drop": "Em breve",
           "fonte": "https://www.fortniteking.com/sprite/peely"
         },
         "Metalizado": {
-          "status": "disponivel",
-          "drop": null,
+          "status": "em_breve",
+          "drop": "Em breve",
           "fonte": "https://www.fortniteking.com/sprite/peely"
         },
         "Cúbico": {
           "status": "em_breve",
-          "drop": null,
+          "drop": "Em breve",
           "fonte": "https://www.fortniteking.com/sprite/peely"
         },
         "Quack": {
           "status": "em_breve",
-          "drop": null,
+          "drop": "Em breve",
           "fonte": "https://www.fortniteking.com/sprite/peely"
         },
         "Gema": {
           "status": "em_breve",
-          "drop": null,
+          "drop": "Em breve",
           "fonte": "https://www.fortniteking.com/sprite/peely"
         }
       }
     }
-  ]
+  ],
+  "estatisticas": {
+    "combinacoesLidas": 165,
+    "disponiveis": 148,
+    "emBreve": 17
+  }
 }
