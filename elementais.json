@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "atualizadoEm": "2026-08-02T23:17:47.167Z",
+  "atualizadoEm": "2026-08-05T18:08:19.598Z",
   "fonte": "https://www.fortniteking.com/sprite",
   "tipos": [
     {
@@ -1121,8 +1121,8 @@
       ],
       "variantes": {
         "Normal": {
-          "status": "em_breve",
-          "drop": "Em breve",
+          "status": "disponivel",
+          "drop": "0%",
           "fonte": "https://www.fortniteking.com/sprite/ironmouse"
         }
       }
@@ -1246,7 +1246,7 @@
   ],
   "estatisticas": {
     "combinacoesLidas": 165,
-    "disponiveis": 148,
-    "emBreve": 17
+    "disponiveis": 149,
+    "emBreve": 16
   }
 }
